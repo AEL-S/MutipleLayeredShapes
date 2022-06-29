@@ -1,8 +1,8 @@
 # MutipleLayeredShapes
 
-<h2>Shapes Exercise</h2>
+<h2>Exercise</h2>
 
-After learning how to make a basic ball shape, this exercise expanded on that. I learned to layer shapes of different colors, dimensions, and at different z positions. There was no direction on what size or colors to make the balls, so I matched it as best I could at the time by sight. I intend to re-do this assignment eventually to ultimately match the example 100%.
+After learning how to make a basic ball shape, this exercise expanded on that. I learned to layer shapes of different colors, dimensions, and at different z positions. There was no direction on what size or colors to make the balls, so I matched the provided example as best I could by sight. I intend to re-do this assignment eventually to ultimately match the example 100%.
 
 <br>
 
