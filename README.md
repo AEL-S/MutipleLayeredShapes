@@ -17,6 +17,9 @@ After learning how to make a basic ball shape, this exercise expanded on that. I
   
   <br>
   
+  <h5>Z-index used:</h5>
+  5; 10 - depending on the ball.
+  
 <h5>Example of what completed assignment should look like:</h5>
 <br>
 ![Screen Shot 2022-06-11 at 11 06 52 AM](https://user-images.githubusercontent.com/105984477/176498344-f73c3b47-dc92-4ab6-91b1-db1fa6473dd1.jpeg)
